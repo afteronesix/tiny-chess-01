@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/afteronesix/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/afteronesix/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A deterministic, self-contained Python chess engine for the make.fun Tiny Chess bounty. It searches legal moves to a fixed budget, then plays through the provided environment.
+A deterministic, self-contained Python chess engine for the make.fun Tiny Chess bounty. It starts from the supplied starter and will be improved and tested against the official practice kit.
 
 ## Run it
 
